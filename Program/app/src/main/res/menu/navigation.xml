@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:title="@string/app_add"
+            android:id="@+id/add"
+            android:icon="@drawable/add"/>
+    <item
+            android:title="@string/app_delete"
+            android:id="@+id/delete"
+            android:icon="@drawable/delete"/>
+    <item
+            android:title="@string/app_change"
+            android:id="@+id/change"
+            android:icon="@drawable/change"/>
+    <item
+            android:title="@string/app_select"
+            android:id="@+id/select"
+            android:icon="@drawable/select"/>
+</menu>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:title="@string/app_homePage"
+            android:id="@+id/homePage_nav"
+            android:icon="@drawable/homepage"/>
+    <item
+            android:title="@string/app_add"
+            android:id="@+id/add_nav"
+            android:icon="@drawable/add"/>
+    <item
+            android:title="@string/app_delete"
+            android:id="@+id/delete_nav"
+            android:icon="@drawable/delete"/>
+    <item
+            android:title="@string/app_change"
+            android:id="@+id/change_nav"
+            android:icon="@drawable/change"/>
+    <item
+            android:title="@string/app_select"
+            android:id="@+id/select_nav"
+            android:icon="@drawable/select"/>
+</menu>
